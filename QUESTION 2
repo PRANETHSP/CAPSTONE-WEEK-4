@@ -1,0 +1,11 @@
+Data Description
+
+• As we need to explore, segment, and cluster the neighbourhoods in the city of Toronto, the Toronto neighbourhood data is key for this project.
+
+• Unfortunately, the data is for the Toronto neighbourhood data is not widely available on the Internet in the structured format, hence we need to scrap it through an existing Wikipedia page exists that has all the information we need to explore and cluster the neighbourhoods in Toronto. The data should contain the coordinates for each of the neighbourhood in Toronto that will help us to further obtaining more information critical for this project.
+
+• We will then need to leverage on features in a reliable location information provider such as the Foursquare.com to explore the various types of venues and its categories available in each neighbourhood. We will also need to understand the trending of these venues in the respective neighbourhood.
+
+• We will also use clustering techniques such as the K-Clustering to segment and cluster these neighborhoods so that we can group them together to understand their similarities and what best we can do for these type of neighborhoods.
+
+• With all these features, techniques and data, we will then be able to come up with a best recommendation to the management of ABC Online Grocery to their problem which is where is the best neighborhood for them to first start off to offer their services. For an example, we will not want to enter a neighborhood whereby there is already a high concentration of grocery stores available or there is a high trending of such stores upcoming in the neighborhood; we will like to recommend a neighborhood where we know that there will be a higher demand of such delivery service due to the lack of supply in that area.
